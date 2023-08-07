@@ -18,7 +18,11 @@ You can install these using pip: `pip install beautifulsoup4 requests`
 2. Replace the placeholders <YOUR_API_KEY> and <SEARCH_ENGINE_ID> in the script with your actual Google Custom Search API key and Search Engine ID, respectively.
 
 ## Usage
-To use the script, execute the following command:
+
+1. Save the report:
+![Save report](images/save_report.png)
+
+2. Run the script using the following command:
 
 ```bash
 python retire_parser.py <path_to_html_report>
